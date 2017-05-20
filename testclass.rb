@@ -18,4 +18,4 @@ class2obj = Class2.new
 class2obj.print_global
 puts $global_variable
 $global_variable = 10
-
+puts 'aaa'
