@@ -27,4 +27,4 @@ foo(6) do |b|
    b + 3
 end
 
-puts 'ffffffffffffffff'
+
