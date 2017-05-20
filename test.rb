@@ -26,3 +26,5 @@ foo(6) do |b|
    puts "b = #{b}"
    b + 3
 end
+
+puts 'ffffffffffffffff'
