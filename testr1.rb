@@ -1,4 +1,4 @@
-puts 'kkkkkkq	qqqqqqqqqqqqkkkkkkkkkkkk'
+puts 'kkkkkkqyyyyyyyyyyyyqqqqqqqqqqqqkkkkkkkkkkkk'
 :w
 :q
 :w
