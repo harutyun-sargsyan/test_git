@@ -3,8 +3,7 @@ puts 'function start'
 # fghjklkjhg
 c = yield a + 2 if block_given?
 puts "block return value: #{c}"
-puts 'func end'
-
+puts 'aaa'
 
 end
 
