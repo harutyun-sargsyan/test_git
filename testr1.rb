@@ -1,5 +1,4 @@
 puts 'kkkkkkqyyyyyyyyyyyyqqqqqqqqqqqqkkkkkkkkkkkk'
-:w
-:q
-:w
-:q
+
+puts 'kkkkkkqvvvvvvv	qqqqqqqqqqqqkkkkkkkkkkkk'
+
